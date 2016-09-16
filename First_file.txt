@@ -1,1 +1,3 @@
 new_feature
+
+Additional data to test checkout when working directory is not clean
