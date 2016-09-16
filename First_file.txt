@@ -1,3 +1,3 @@
-new_feature
+new_feature hagai
 
 Additional data to test checkout when working directory is not clean
